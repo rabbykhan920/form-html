@@ -1,0 +1,83 @@
+<div class="container">
+   <div class="first-box">
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique modi libero eos in voluptatum explicabo enim nesciunt praesentium temporibus iste.</p>
+    <a href="#">click here</a>
+    <button>join now</button>
+    <h3>hello apu</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi laborum impedit quaerat quisquam fuga nulla id, earum ea harum repellendus!</p>
+    <ul>
+        <li>home</li>
+        <li>home</li>
+        <li>home</li>
+        <li>home</li>
+    </ul>
+    
+   </div>
+   
+   <div class="second-box">
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique modi libero eos in voluptatum explicabo enim nesciunt praesentium temporibus iste.</p>
+    <a href="#">click here</a>
+    <button>join now</button>
+    <h3>hello apu</h3>
+    <ul>
+        <li>home</li>
+        <li>home</li>
+        <li>home</li>
+        <li>home</li>
+        <li>home</li>
+    </ul>
+   </div>
+
+   <div class="third-box">
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique modi libero eos in voluptatum explicabo enim nesciunt praesentium temporibus iste.</p>
+    <a href="#">click here</a>
+    <button>join now</button>
+    <h3>hello apu</h3>
+    <ul>
+        <li>home</li>
+        <li>home</li>
+        <li>home</li>
+        <li>home</li>
+        <li>home</li>
+    </ul>
+   </div>
+</div>
+
+
+
+
+
+]
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+first-box{
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    padding: 20px;
+    margin-right: 20px;
+   
+
+}
+
+.second-box{
+    width: 400px;
+    height: 400px;
+ background-color: darksalmon;
+    margin-right: 20px;
+ padding: 20px;
+ 
+}
+.third-box{
+    width: 400px;
+    height: 400px;
+    background-color: lightsalmon;
+ 
+ padding: 20px;
+}
